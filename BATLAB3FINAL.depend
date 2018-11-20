@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1542737084 source:/home/alaa/Desktop/BATLAB3FINAL/main.cpp
+	<iostream>
+	"Monitor.h"
+	<pthread.h>
+	<unistd.h>
+	<string>
+	<ctime>
+
+1542740243 /home/alaa/Desktop/BATLAB3FINAL/include/Monitor.h
+	<pthread.h>
+	<string>
+
+1542740236 source:/home/alaa/Desktop/BATLAB3FINAL/src/Monitor.cpp
+	"Monitor.h"
+	<pthread.h>
+	<string>
+	<iostream>
+	<unistd.h>
+
